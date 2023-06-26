@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @banjirahammad
 - 👀 I’m interested in web programming and build web software
-- 🌱 I’m currently learning Laravel
+- 🌱 My skills PHP, Laravel, HTML, CSS, Bootstrap, jQuery
+- 🌱 I’m currently learning Vue js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

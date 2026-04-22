@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @banjirahammad
-- 👀 I’m interested in web programming and build web software
-- 🌱 My skills PHP, Laravel, HTML, CSS, Bootstrap, jQuery
-- 🌱 I’m currently learning Vue js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Md. Banjir Ahammad
 
-<!---
-banjirahammad/banjirahammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend-focused software engineer building reliable APIs, automation workflows, and maintainable Laravel systems.
+
+## What I work on
+- Backend development with PHP and Laravel
+- REST API design for web and mobile applications
+- MySQL query optimization and data modeling
+- Queue-based workflows, retries, and async job processing
+- AWS services such as S3, SQS, SES, EC2, and RDS
+- Third-party integrations including payments, SMS, and external APIs
+
+## Current focus
+- Scalable backend architecture
+- System reliability and failure handling
+- Performance optimization for production applications
+
+## Connect with me
+- Portfolio: https://www.banjir-ahammad.com
+- LinkedIn: https://www.linkedin.com/in/banjirahammad
+
+## Notes
+I enjoy building production systems that stay clear, stable, and easy to extend as products grow.

@@ -58,7 +58,7 @@ Explore my work, experience, and case studies here:
 - [Portfolio](https://www.banjir-ahammad.com/)
 - [LinkedIn](https://www.linkedin.com/in/banjirahammad)
 - [GitHub](https://github.com/banjirahammad)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:banjirahammad@gmail.com)
 
 ---
 

@@ -1,4 +1,5 @@
 <h1 align="center">Md. Banjir Ahammad</h1>
+
 <p align="center">
   <strong>Backend-Focused Software Engineer</strong>
 </p>
@@ -8,80 +9,61 @@
 </p>
 
 <p align="center">
-  I build reliable backend systems for real products — with clean architecture, solid integrations, and production-ready performance.
+  Building reliable backend systems with clean architecture, strong integrations, and production-ready performance.
 </p>
 
 <p align="center">
   <a href="https://www.banjir-ahammad.com/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/banjirahammad">LinkedIn</a> •
-  <a href="https://github.com/banjirahammad">GitHub</a>
+  <a href="mailto:banjirahammad@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About
 
-I’m a software engineer specializing in backend development with PHP and Laravel.
+Backend-focused software engineer experienced in building and maintaining real-world product backends.
 
-My work focuses on building and improving systems such as:
-
-- scalable REST APIs
-- queue-driven workflows
-- third-party integrations
-- reporting and operational tools
-- production backend features that need to be maintainable and reliable
-
-I enjoy solving backend problems around architecture, performance, failure handling, and long-term system clarity.
+My work centers on Laravel applications, REST APIs, MySQL optimization, AWS workflows, automation, and third-party integrations. I care about writing backend systems that are reliable, maintainable, and easy to extend as products evolve.
 
 ---
 
-## Tech Stack
+## Focus Areas
 
-### Backend
-`PHP` `Laravel` `REST API` `Authentication` `Authorization` `Queues` `Schedulers`
-
-### Database
-`MySQL` `Database Design` `Query Optimization` `Indexing`
-
-### Cloud / Infra
-`AWS EC2` `AWS S3` `AWS SQS` `AWS SES` `AWS RDS` `Linux`
-
-### Frontend Support
-`JavaScript` `Vue.js` `HTML` `CSS` `Bootstrap` `Tailwind CSS`
-
-### Tools
-`Git` `GitHub` `Postman` `Composer`
+- Laravel application development
+- REST API design and implementation
+- MySQL query optimization and relational data modeling
+- AWS services and backend workflows
+- Queue-based processing and scheduled jobs
+- Third-party integrations such as payments, messaging, and external APIs
+- Production reliability, performance, and maintainable architecture
 
 ---
 
-## What I’m Focused On
+## Stack
 
-- backend architecture for growing applications
-- API design and integration workflows
-- async processing and job systems
-- database performance optimization
-- building production systems that stay easy to extend
+`PHP` `Laravel` `MySQL` `AWS` `REST API` `JavaScript` `Vue.js` `Git` `Postman`
 
 ---
 
 ## Portfolio
 
-Visit my website to see my experience, case studies, and selected work:
-
-🔗 **[https://www.banjir-ahammad.com/](https://www.banjir-ahammad.com/)**
+Explore my work, experience, and case studies here:  
+**[banjir-ahammad.com](https://www.banjir-ahammad.com/)**
 
 ---
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/banjirahammad](https://www.linkedin.com/in/banjirahammad)
-- **Portfolio:** [banjir-ahammad.com](https://www.banjir-ahammad.com/)
-- **Email:** your-email-here
+- [Portfolio](https://www.banjir-ahammad.com/)
+- [LinkedIn](https://www.linkedin.com/in/banjirahammad)
+- [GitHub](https://github.com/banjirahammad)
+- [Email](mailto:your-email@example.com)
 
 ---
 
-## Philosophy
+## Engineering Style
 
-I prefer production systems over tutorial apps.
+I prefer production systems over demo-style projects.
 
-I like backend engineering that is practical, stable, and built to survive real usage.
+I’m most interested in backend work where reliability, integrations, performance, and practical long-term engineering matter.
